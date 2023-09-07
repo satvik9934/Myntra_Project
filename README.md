@@ -1,4 +1,5 @@
 # myntra
 
-Hosted Link:- https://trishadas13.github.io/myntra/
+Hosted Link:- https://satvik9934.github.io/Myntra_Project/
+
 
