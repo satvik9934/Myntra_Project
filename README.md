@@ -34,6 +34,7 @@ https://satvik9934.github.io/Myntra_Project/
 - Sonu Kumar - Home and Living
 - Namisha Gurunani - Beauty
 - Rakesh Gupta - Footer
+- Rakesh Gupta - Footer section for all the pages . Also contributed in Beauty page for making the Carousel of the images.
 <hr>
 
 ## Sections 
